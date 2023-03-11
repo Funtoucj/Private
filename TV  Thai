@@ -1,4 +1,4 @@
-#EXTM3U
+I#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-logo-small="https://th.m.wikipedia.org/wiki/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C:%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" tvg-logo="http://www.guimee.com/as/tv/img/logo/ch5.jpg" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
 
@@ -62,7 +62,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
 
-https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678531531&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ts9PyJsJsbRnfC2WuwQR8w
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678531914&x_ark_path_prefix=%2Flive%2F&x_ark_signature=e-q4Ze1QMX67q_nThYyRkwres=1678531531&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ts9PyJsJsbRnfC2WuwQR8w
 
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-logo="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="toonee",toonee
 
