@@ -60,13 +60,13 @@ https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/chunklist_w640027843.m3u8
 
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
+#EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN 16 HD",TNN 16 HD
 
 https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678546263&x_ark_path_prefix=/live/&x_ark_signature=o6tGCWFbtUjB7jBSiaQJfw
 
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-logo="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="toonee",toonee
 
-https://www.dailymotion.com/cdn/live/video/x7yxv78.m3u8?sec=ZCsJ6C5m8UYvrvDlGU645B2qGFrt18hk6yqf-ZbdS3NWYSlx4FbF5vSe83_aUh_dvClt2meIiOVpn_XlnqRUyQ&dmTs=327538&dmV1st=28527CE3D0FBBEEAC2888F2F825F5955
+https://www.dailymotion.com/cdn/live/video/x7yxv78.m3u8?sec=ZCsJ6C5m8UYvrvDlGU645DaaQqGkt2W_MKQmfpm1eYL5zecsBbUSl4gy52KNMXc8iM3yvjJxJRUiD9sIVilHNA&dmTs=327538&dmV1st=28527CE3D0FBBEEAC2888F2F825F5955
 
 #EXTINF:-1  tvg-id="18" tvg-chno="18" group-title="THAI Digital TV" tvg-logo="http://m3u.at/data_file/tvlogo2/18.png",NEW 18
 
