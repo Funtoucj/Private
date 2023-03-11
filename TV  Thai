@@ -60,9 +60,9 @@ https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/chunklist_w640027843.m3u8
 
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
+#EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN_16
 
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678546263&x_ark_path_prefix=/live/&x_ark_signature=o6tGCWFbtUjB7jBSiaQJfwark_path_prefix=%2Flive%2F&x_ark_signature=e-q4Ze1QMX67q_nThYyRkwres=1678531531&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ts9PyJsJsbRnfC2WuwQR8w
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678546263&x_ark_path_prefix=/live/&x_ark_signature=o6tGCWFbtUjB7jBSiaQJfw
 
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-logo="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="toonee",toonee
 
@@ -390,15 +390,11 @@ https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
 
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
 
- 
-
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+ #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
- 
-
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
+ #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
 
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
@@ -458,9 +454,7 @@ http://vip.login.in.th:1935/ToplineChannel/ToplineChannel/playlist.m3u8
 
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 
- 
-
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",CNN
+ #EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="http://i.picasion.com/resize90/71c8e173bd1af2df31eaae8a0b7e73c2.png",CNN
 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -496,9 +490,7 @@ https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
- 
-
-#EXTINF:-1  tvg-id="N/A" group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg",Lale
+ #EXTINF:-1  tvg-id="N/A" group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg",Lale
 
 http://stream.atr.ua/lale//live/index.m3u8
 
@@ -526,15 +518,11 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
 
- 
-
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="N/A",Arirang
+ #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="N/A",Arirang
 
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 
- 
-
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",GOOD TV
+ #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",GOOD TV
 
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
 
@@ -610,9 +598,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 
- 
-
-#EXTINF:-1 tvg-id="MBCTV.kr" status="error",MBC (1080p)
+ #EXTINF:-1 tvg-id="MBCTV.kr" status="error",MBC (1080p)
 
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
@@ -628,9 +614,7 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 
 https://list.iptvcat.com/my_list/s/e34b96fb87f9fe043ff7bf6479f1dd3d.m3u8
 
- 
-
-#EXTINF:-1 tvg-id="Channel5Singapore.sg" status="blocked",Channel 5 
+ #EXTINF:-1 tvg-id="Channel5Singapore.sg" status="blocked",Channel 5 
 
 https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
 
