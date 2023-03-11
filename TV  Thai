@@ -144,6 +144,9 @@ https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8?vhost=streaming-hwc.ch7.com
 
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
+#EXTINF:-1 tvg-id="37" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="THAI Digital TV" tvg-name="อนุบาล1",อนุบาล1
+
+
 https://cdn-live.dltv.ac.th/dltv10.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-logo-small="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-logo="http://m3u.at/data_file/tvlogo2/anu1.png" tvg-chno="37" group-title="THAI Digital TV" tvg-name="อนุบาล1",อนุบาล1
