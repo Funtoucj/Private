@@ -62,7 +62,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
 
-https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678531914&x_ark_path_prefix=%2Flive%2F&x_ark_signature=e-q4Ze1QMX67q_nThYyRkwres=1678531531&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ts9PyJsJsbRnfC2WuwQR8w
+https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678546263&x_ark_path_prefix=/live/&x_ark_signature=o6tGCWFbtUjB7jBSiaQJfwark_path_prefix=%2Flive%2F&x_ark_signature=e-q4Ze1QMX67q_nThYyRkwres=1678531531&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ts9PyJsJsbRnfC2WuwQR8w
 
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-logo="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="toonee",toonee
 
