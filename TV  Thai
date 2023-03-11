@@ -44,8 +44,6 @@ https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed
 
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
- 
-
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-logo="http://m3u.at/data_file/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
 
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -64,7 +62,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
 
-https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8
+https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678531531&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ts9PyJsJsbRnfC2WuwQR8w
 
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-logo="http://m3u.at/data_file/tvlogo2/toonee.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="toonee",toonee
 
