@@ -60,7 +60,7 @@ https://edge6a.v2h-cdn.com/mvtv75/mvtv75.stream/chunklist_w640027843.m3u8
 
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN_16
+#EXTINF:-1 tvg-id="16" tvg-logo-small="http://m3u.at/data_file/tvlogo2/16.png" tvg-logo="http://m3u.at/data_file/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN HD
 
 https://tnnthailand-1mertz.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1678546263&x_ark_path_prefix=/live/&x_ark_signature=o6tGCWFbtUjB7jBSiaQJfw
 
